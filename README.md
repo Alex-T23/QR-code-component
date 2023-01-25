@@ -24,8 +24,8 @@ Mobile View.
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Netlify](https://splendorous-croquembouche-57a1c8.netlify.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-DKoO8NVehZ)
+- Live Site URL: [Netlify](https://qr-code-component-alex.netlify.app/)
 
 ## My process
 
